@@ -1,0 +1,280 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -2088028164, guid: 71cc5f30db7f46698bee7e03dca10fb2, type: 3}
+  m_Name: test2
+  m_EditorClassIdentifier: 
+  buildTargetName: test2
+  buildPlayerOptions:
+    assetBundleManifestPath: 
+    buildOptions: 0
+  buildAssetBunleOptions:
+    options: 0
+  playerSettings:
+    productName: Test Project
+    bundleIdentifier: com.DefaultCompany.TestProject
+    bundleVersion: 0.1
+    companyName: DefaultCompany
+    keyaliasPass: 
+    keystorePass: 
+    allowFullscreenSwitch: 1
+    fullScreenMode: 1
+    resizableWindow: 0
+    defaultIsNativeResolution: 1
+    defaultScreenHeight: 768
+    defaultScreenWidth: 1024
+    defaultWebScreenHeight: 600
+    defaultWebScreenWidth: 960
+    defaultInterfaceOrientation: 4
+    allowedAutorotateToLandscapeLeft: 1
+    allowedAutorotateToLandscapeRight: 1
+    allowedAutorotateToPortrait: 1
+    allowedAutorotateToPortraitUpsideDown: 1
+    useAnimatedAutorotation: 1
+    captureSingleScreen: 0
+    useHDRDisplay: 0
+    forceSingleInstance: 0
+    runInBackground: 1
+    visibleInBackground: 1
+    muteOtherAudioSources: 0
+    statusBarHidden: 1
+    macRetinaSupport: 1
+    useMacAppStoreValidation: 0
+    architecture: 13
+    scriptDefineSymbols:
+    - 
+    scriptingRuntimeVersion: 1
+    apiCompatibilityLevel: 6
+    scriptingBackend: 1
+    il2CppCompilerConfiguration: 1
+    incrementalIl2CppBuild: 0
+    additionalIl2CppArgs: 
+    managedStrippingLevel: 1
+    stripEngineCode: 1
+    allowUnsafeCode: 0
+    aotOptions: 
+    gcIncremental: 0
+    actionOnDotNetUnhandledException: 1
+    logObjCUncaughtExceptions: 1
+    useDefaultGraphicsAPI: 1
+    graphicsAPIs: 0b00000008000000
+    colorSpace: 0
+    MTRendering: 1
+    mobileMTRendering: 0
+    graphicsJobs: 0
+    graphicsJobMode: 0
+    use32BitDisplayBuffer: 1
+    preserveFramebufferAlpha: 0
+    gpuSkinning: 1
+    protectGraphicsMemory: 0
+    vulkanEnableSetSRGBWrite: 0
+    openGLRequireES31: 0
+    openGLRequireES31AEP: 0
+    openGLRequireES32: 0
+    useFlipModelSwapchain: 1
+    cursorHotspot: {x: 0, y: 0}
+    defaultCursor: {fileID: 0}
+    accelerometerFrequency: 60
+    virtualRealitySDKs: []
+    virtualRealitySplashScreen: {fileID: 0}
+    virtualRealitySupported: 0
+    enable360StereoCapture: 0
+    vuforiaEnabled: 0
+    enableCrashReportAPI: 0
+    enableFrameTimingStats: 0
+    enableInternalProfiler: 0
+    enableMetalAPIValidation: 1
+    usePlayerLog: 1
+    bakeCollisionMeshes: 0
+    stripUnusedMeshComponents: 1
+    legacyClampBlendShapeWeights: 0
+    preloadedAssets: []
+    Splashscreen:
+      animationBackgroundZoom: 1
+      animationLogoZoom: 1
+      animationMode: 1
+      background: {fileID: 0}
+      backgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
+      backgroundPortrait: {fileID: 0}
+      blurBackgroundImage: 1
+      drawMode: 0
+      overlayOpacity: 1
+      show: 1
+      showUnityLogo: 1
+      unityLogoStyle: 1
+    Android:
+      androidIsGame: 0
+      androidTVCompatibility: 0
+      ARCoreEnabled: 0
+      blitType: 0
+      buildApkPerCpuArchitecture: 0
+      bundleVersionCode: 0
+      disableDepthAndStencilBuffers: 0
+      forceInternetPermission: 0
+      forceSDCardPermission: 0
+      keyaliasName: 
+      keyaliasPass: 
+      keystoreName: 
+      keystorePass: 
+      licenseVerification: 0
+      maxAspectRatio: 0
+      minSdkVersion: 0
+      targetSdkVersion: 0
+      preferredInstallLocation: 0
+      renderOutsideSafeArea: 0
+      showActivityIndicatorOnLoading: 0
+      splashScreenScale: 0
+      startInFullscreen: 0
+      targetArchitectures: 0
+      useAPKExpansionFiles: 0
+      useCustomKeystore: 0
+    iOS:
+      applicationDisplayName: 
+      buildNumber: 
+      allowHTTPDownload: 0
+      appInBackgroundBehavior: 0
+      backgroundModes: 0
+      deferSystemGesturesMode: 0
+      disableDepthAndStencilBuffers: 0
+      forceHardShadowsOnMetal: 0
+      hideHomeButton: 0
+      iOSUrlSchemes: []
+      prerenderedIcon: 0
+      requiresFullScreen: 0
+      requiresPersistentWiFi: 0
+      showActivityIndicatorOnLoading: 0
+      statusBarStyle: 0
+      useOnDemandResources: 0
+      cameraUsageDescription: 
+      locationUsageDescription: 
+      microphoneUsageDescription: 
+      targetDevice: 0
+      targetOSVersionString: 
+      sdkVersion: 0
+      scriptCallOptimization: 0
+      appleDeveloperTeamID: 
+      appleEnableAutomaticSigning: 0
+      iOSManualProvisioningProfileID: 
+      iOSManualProvisioningProfileType: 0
+      tvOSManualProvisioningProfileID: 
+      tvOSManualProvisioningProfileType: 0
+    WebGL:
+      analyzeBuildSize: 0
+      compressionFormat: 1
+      dataCaching: 1
+      debugSymbols: 0
+      emscriptenArgs: 
+      exceptionSupport: 1
+      linkerTarget: 1
+      memorySize: 16
+      modulesDirectory: 
+      nameFilesAsHashes: 0
+      template: APPLICATION:Default
+      threadsSupport: 0
+      useEmbeddedResources: 0
+    iconsForTargetgroupSettings:
+    - iconKind: 0
+      iconsForTargetGroup: []
+      iconSizesForTargetGroup: 
+    - iconKind: 1
+      iconsForTargetGroup: []
+      iconSizesForTargetGroup: 
+    - iconKind: 2
+      iconsForTargetGroup: []
+      iconSizesForTargetGroup: 
+    - iconKind: 3
+      iconsForTargetGroup: []
+      iconSizesForTargetGroup: 
+    - iconKind: 4
+      iconsForTargetGroup: []
+      iconSizesForTargetGroup: 
+    platformIconSettings: []
+    stackTraceLogTypeSettings:
+    - logType: 0
+      stackTraceLogType: 1
+    - logType: 1
+      stackTraceLogType: 1
+    - logType: 2
+      stackTraceLogType: 1
+    - logType: 3
+      stackTraceLogType: 1
+    - logType: 4
+      stackTraceLogType: 1
+  editorBuildSettings:
+    scenes:
+    - path: Assets/Scenes/SampleScene.unity
+      enabled: 1
+    eScene:
+      m_Handle: 0
+  editorUserBuildSettings:
+    activeBuildTarget: 20
+    allowDebugging: 0
+    buildScriptsOnly: 0
+    compressWithPsArc: 0
+    connectProfiler: 0
+    development: 0
+    enableHeadlessMode: 0
+    forceInstallation: 0
+    forceOptimizeScriptCompilation: 0
+    installInBuildFolder: 0
+    needSubmissionMaterials: 0
+    selectedBuildTargetGroup: 13
+    selectedStandaloneTarget: 19
+    compressFilesInPackage: 0
+    buildAppBundle: 0
+    buildLocation: C:/Users/andre/projects/Test Project/Export
+    movePackageToDiscOuterEdge: 0
+    streamingInstallLaunchRange: 0
+    waitForPlayerConnection: 0
+    explicitNullChecks: 0
+    explicitDivideByZeroChecks: 0
+    explicitArrayBoundsChecks: 0
+    exportAsGoogleAndroidProject: 0
+    androidCreateSymbolsZip: 0
+    androidBuildSubtarget: 0
+    androidBuildSystem: 1
+    androidBuildType: 2
+    androidReleaseMinification: 0
+    androidDebugMinification: 0
+    androidETC2Fallback: 0
+    iOSBuildType: 1
+    symlinkLibraries: 0
+    windowsDevicePortalAddress: 
+    windowsDevicePortalPassword: 
+    windowsDevicePortalUsername: 
+  timeSettings:
+    fixedDeltaTime: 0.0001
+    maximumDeltaTime: 0.0001
+    timeScale: 0
+    maximumParticleDeltaTime: 0.0001
+  graphicsSettings:
+    graphicsSettingsBackupFilePath: BuildSettings\test2\GraphicsSettings.asset.bkp
+  tagSettings:
+    graphicsSettingsBackupFilePath: BuildSettings\test2\TagManager.asset.bkp
+  vfxSettings:
+    graphicsSettingsBackupFilePath: BuildSettings\test2\VFXManager.asset.bkp
+  audioSettings:
+    graphicsSettingsBackupFilePath: BuildSettings\test2\AudioManager.asset.bkp
+  qualitySettings:
+    graphicsSettingsBackupFilePath: BuildSettings\test2\QualitySettings.asset.bkp
+  packageImportSettings:
+    ignoredPackageSource: 2
+    linkedPackages:
+    - packageId: com.labster.platform.buildsettings@file:C:\Users\andre\projects\Platform.Library.BuildSettings\unitypackage
+      active: 1
+    - packageId: com.unity.collab-proxy@1.2.16
+      active: 1
+    - packageId: com.unity.ext.nunit@1.0.0
+      active: 1
+    - packageId: com.unity.ide.vscode@1.2.4
+      active: 1
+    - packageId: com.unity.test-framework@1.0.13
+      active: 1
